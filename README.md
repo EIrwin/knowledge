@@ -6,3 +6,4 @@ Curated list of enjoyable tech articles
 
 ## React
 - [x] [React as a UI Runtime](https://t.co/IZNtp9113k)
+* [ ] [React Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
