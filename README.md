@@ -1,6 +1,8 @@
 # Knowledge
 Curated list of enjoyable tech articles
 
+## Golang
+- [x] [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 ## AI
 - [ ] [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 
