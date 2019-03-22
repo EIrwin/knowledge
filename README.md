@@ -4,6 +4,7 @@ Curated list of enjoyable tech articles
 ## Golang
 - [x] [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 - [x] [Self Referential Functions](https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html)
+- [ ] [Writing Server Sent Events Server](https://thoughtbot.com/blog/writing-a-server-sent-events-server-in-go)
 ## AI
 - [ ] [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 - [x] [Marching Learning Glossary - Google Cloud](https://developers.google.com/machine-learning/glossary/)
