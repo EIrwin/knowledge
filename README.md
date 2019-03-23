@@ -22,4 +22,7 @@ Curated list of tech articles, blogs and white papers that I enjoyed or am just 
 - [ ] [Cloud Programming Simplified - A Berkeley View on Serverless Computing](https://arxiv.org/pdf/1902.03383.pdf)
 - [ ] [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf)
 
+## Technical Leadership
+- [x] [Defining a Distinguishd Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/)
+
 
