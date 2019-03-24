@@ -13,6 +13,8 @@ Curated list of tech articles, blogs and white papers that I enjoyed or am just 
 ## Kubernetes
 - [ ] [Inside Kubernetes RBAC](https://medium.com/@dominik.tornow/inside-kubernetes-rbac-9988b08a738a)
 
+## Networking
+- [ ] [Embracing eventual consistency in SOA Networking](https://blog.envoyproxy.io/embracing-eventual-consistency-in-soa-networking-32a5ee5d443d)
 ## React
 - [x] [React as a UI Runtime](https://t.co/IZNtp9113k)
 - [x] [React Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
