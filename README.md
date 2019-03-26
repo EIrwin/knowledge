@@ -1,5 +1,5 @@
 # Knowledge
-Curated list of tech articles, blogs and white papers that I enjoyed or am just procrastinating to read.
+List of tech articles, blogs and white papers that I probably will never read.
 
 ## AI
 - [ ] [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
