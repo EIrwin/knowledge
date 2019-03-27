@@ -12,6 +12,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 
 ## Kubernetes
 - [ ] [Inside Kubernetes RBAC](https://medium.com/@dominik.tornow/inside-kubernetes-rbac-9988b08a738a)
+- [x] [Kubernetes AirBnb](https://qconlondon.com/system/files/presentation-slides/qcon_london_2019.pdf)
 
 ## Networking
 - [ ] [Embracing eventual consistency in SOA Networking](https://blog.envoyproxy.io/embracing-eventual-consistency-in-soa-networking-32a5ee5d443d)
