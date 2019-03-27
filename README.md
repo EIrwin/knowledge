@@ -9,6 +9,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [x] [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 - [x] [Self Referential Functions](https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html)
 - [ ] [Writing Server Sent Events Server](https://thoughtbot.com/blog/writing-a-server-sent-events-server-in-go)
+- [x] [Slice Internals](https://blog.golang.org/go-slices-usage-and-internals)
 
 ## Kubernetes
 - [ ] [Inside Kubernetes RBAC](https://medium.com/@dominik.tornow/inside-kubernetes-rbac-9988b08a738a)
