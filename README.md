@@ -18,6 +18,11 @@ List of tech articles, blogs and white papers that I probably will never read.
 
 ## Networking
 - [ ] [Embracing eventual consistency in SOA Networking](https://blog.envoyproxy.io/embracing-eventual-consistency-in-soa-networking-32a5ee5d443d)
+
+## Ops | SRE
+- [x] [Service Tiers to Help Prevent Microservice Disasters](https://thenewstack.io/how-service-tiers-can-help-to-avoid-microservices-disasters/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
+
+
 ## React
 - [x] [React as a UI Runtime](https://t.co/IZNtp9113k)
 - [x] [React Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
