@@ -34,5 +34,5 @@ List of tech articles, blogs and white papers that I probably will never read.
 
 ## Technical Leadership
 - [x] [Defining a Distinguishd Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/)
-
+- [x] [13 Signs of High Emotional Intelligence](https://www.inc.com/justin-bariso/13-things-emotionally-intelligent-people-do.html?fbclid=IwAR1PSNSBLkYMvUyu40vYREVWwdrDy4AvWf-OX2Clb05lBWokvCsVVFJUFsA)
 
