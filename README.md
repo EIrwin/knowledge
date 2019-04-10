@@ -26,6 +26,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 ## React
 - [x] [React as a UI Runtime](https://t.co/IZNtp9113k)
 - [x] [React Hooks FAQ](https://reactjs.org/docs/hooks-faq.html)
+- [x] [React Hooks Ideaoly & Philosophy](https://threadreaderapp.com/thread/1093694465917751298.html)
 
 ## Serverless
 - [ ] [Serverless Computing: One Step Forward, Two Steps Back](https://arxiv.org/pdf/1812.03651.pdf)
