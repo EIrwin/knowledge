@@ -25,6 +25,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 ## Ops | SRE
 - [x] [Service Tiers to Help Prevent Microservice Disasters](https://thenewstack.io/how-service-tiers-can-help-to-avoid-microservices-disasters/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
 - [ ] [Cloud Native Observability](https://speakerdeck.com/tylertreat/cloud-native-observability)
+- [ ] [Distributed Tracing - We've Been Doing it All Wrong](https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df)
 
 ## Javascript
 - [x] [Bang Bang](https://medium.com/@pddivine/javascript-bang-bang-i-shot-you-down-use-of-double-bangs-in-javascript-7c9d94446054)
