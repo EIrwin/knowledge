@@ -45,6 +45,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [x] [Leadership CI](https://gist.github.com/simpsoka/14da775a63e22e5083141da5c48e6410)
 - [x] [Cheoreographers](https://www.thoughtworks.com/insights/blog/choreographers-missing-role-enterprise-transformation)
 - [x] [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
+- [x] [Meetup Engineering Roles](https://github.com/meetup/engineering-roles)
 
 ## Random
 - [x] [Other's Peoples Problems](https://medium.com/@skamille/opp-other-peoples-problems-d7eb174724ee)
