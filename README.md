@@ -11,6 +11,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [ ] [Writing Server Sent Events Server](https://thoughtbot.com/blog/writing-a-server-sent-events-server-in-go)
 - [x] [Slice Internals](https://blog.golang.org/go-slices-usage-and-internals)
 - [ ] [Idiomaitc Go Resources](https://medium.com/@dgryski/idiomatic-go-resources-966535376dba)
+- [ ] [Clear is better than Clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever)
 
 ## Kubernetes
 - [ ] [Inside Kubernetes RBAC](https://medium.com/@dominik.tornow/inside-kubernetes-rbac-9988b08a738a)
