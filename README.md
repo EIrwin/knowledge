@@ -48,6 +48,8 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [x] [Team Leader Venn Diagram](https://larahogan.me/blog/team-leader-venn-diagram/)
 - [x] [Meetup Engineering Roles](https://github.com/meetup/engineering-roles)
 
+## Engineering Process
+- [x] [How I learned to stop worrying about incidents...](https://sdtimes.com/softwaredev/how-i-learned-to-stop-worrying-about-incidents-and-love-on-call/)
 ## Random
 - [x] [Other's Peoples Problems](https://medium.com/@skamille/opp-other-peoples-problems-d7eb174724ee)
 - [x] [Monorepos - Please Don't](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
