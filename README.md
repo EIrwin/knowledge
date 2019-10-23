@@ -51,6 +51,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 
 ## Engineering Process
 - [x] [How I learned to stop worrying about incidents...](https://sdtimes.com/softwaredev/how-i-learned-to-stop-worrying-about-incidents-and-love-on-call/)
+- [x] [Engineering Managers Guide to Code Reviews](https://www.gitprime.com/guides/code-review/)
 ## Random
 - [x] [Other's Peoples Problems](https://medium.com/@skamille/opp-other-peoples-problems-d7eb174724ee)
 - [x] [Monorepos - Please Don't](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
