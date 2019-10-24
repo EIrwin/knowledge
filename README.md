@@ -5,6 +5,9 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [ ] [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 - [x] [Marching Learning Glossary - Google Cloud](https://developers.google.com/machine-learning/glossary/)
 
+## Authentication
+- [ ] [An Illustrated Guid to OAuith and OpenID](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+
 ## Golang
 - [x] [Practical Go - Dave Cheney](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 - [x] [Self Referential Functions](https://commandcenter.blogspot.com/2014/01/self-referential-functions-and-design.html)
