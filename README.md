@@ -44,6 +44,9 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [ ] [Cloud Programming Simplified - A Berkeley View on Serverless Computing](https://arxiv.org/pdf/1902.03383.pdf)
 - [ ] [Peeking Behind the Curtains of Serverless Platforms](https://www.usenix.org/system/files/conference/atc18/atc18-wang-liang.pdf)
 
+## Microservices
+- [ ] [Testing Microservices the sane way](https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16)
+
 ## Technical Leadership
 - [x] [Defining a Distinguishd Engineer](https://blog.jessfraz.com/post/defining-a-distinguished-engineer/)
 - [x] [13 Signs of High Emotional Intelligence](https://www.inc.com/justin-bariso/13-things-emotionally-intelligent-people-do.html?fbclid=IwAR1PSNSBLkYMvUyu40vYREVWwdrDy4AvWf-OX2Clb05lBWokvCsVVFJUFsA)
@@ -59,5 +62,6 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [x] [Other's Peoples Problems](https://medium.com/@skamille/opp-other-peoples-problems-d7eb174724ee)
 - [x] [Monorepos - Please Don't](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
 - [ ] [Dark Patterns at Scale](https://arxiv.org/pdf/1907.07032.pdf)
+- [ ] [Effective Mental Models])(https://t.co/dywDGQjFhx?amp=1)
 
 
