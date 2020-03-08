@@ -63,6 +63,6 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [x] [Other's Peoples Problems](https://medium.com/@skamille/opp-other-peoples-problems-d7eb174724ee)
 - [x] [Monorepos - Please Don't](https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b)
 - [ ] [Dark Patterns at Scale](https://arxiv.org/pdf/1907.07032.pdf)
-- [ ] [Effective Mental Models])(https://t.co/dywDGQjFhx?amp=1)
+- [ ] [Effective Mental Models](https://t.co/dywDGQjFhx?amp=1)
 
 
