@@ -23,6 +23,7 @@ List of tech articles, blogs and white papers that I probably will never read.
 - [x] [Productive kubectl](https://learnk8s.io/blog/kubectl-productivity/)
 - [x] [Events, the DNA of Kubernetes](https://www.mgasch.com/post/k8sevents/)
 - [ ] [How Kubernetes Policies Work](https://thenewstack.io/how-kubernetes-policies-work-and-when-they-dont-scale/)
+- [ ] [Kubernetes Capacity Planning](https://www.magalix.com/blog/kubernetes-patterns-capacity-planning?utm_sq=gbiwwvtkmj)
 
 ## Networking
 - [ ] [Embracing eventual consistency in SOA Networking](https://blog.envoyproxy.io/embracing-eventual-consistency-in-soa-networking-32a5ee5d443d)
